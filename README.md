@@ -1,13 +1,4 @@
-# ChatApp
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WebSocket Chat App</title>
-</head>
-<body>
-    <h1>WebSocket Chat App</h1>
+<h1>WebSocket Chat App</h1>
 
     <h2>Features</h2>
     <ul>
@@ -70,9 +61,3 @@
     <ol start="5">
         <li>Submit a pull request</li>
     </ol>
-
-    <h2>License</h2>
-    <p><a href="LICENSE">MIT License</a></p>
-</body>
-</html>
-
